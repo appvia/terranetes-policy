@@ -1,5 +1,9 @@
+---
 framework: terraform
 skip-check:
   - CKV2_AWS_6
+  - CKV_AWS_118
+  - CKV_AWS_129
   - CKV_AWS_144
+  - CKV_AWS_157
   - CKV_AWS_18
